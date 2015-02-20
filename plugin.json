@@ -13,12 +13,6 @@
          "homepage": "http://www.winchesterresearch.com"
      }
 	],
-	"donate": [
-	{
-		"paypal": "lawrence@winchesterresearch.it"
-	}
-	],
-	
     "stylesheet": "stylesheets/theme.less"
 
 }
