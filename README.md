@@ -1,4 +1,4 @@
-# Piwik Proteus_Bold Theme
+# Proteus_Bold Theme for Piwik Analytics
 
 ## Description
 
@@ -18,4 +18,7 @@ Basic theme adjustments, testing the process.
 ## Support
 
 Please direct any feedback to ld@winchesterresearch.com
+
+Submit any issues on the github issues page for this theme:
+https://github.com/ldidsbury/Proteus_Bold-PiwikTheme/issues
 
