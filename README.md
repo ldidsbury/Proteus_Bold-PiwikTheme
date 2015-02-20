@@ -6,14 +6,17 @@ Bold and easy-to-read...the Proteus_Bold theme for Piwik Analytics. Proteus was 
 
 ## FAQ
 
-Q.  Want to design a theme for Piwik?
+Q.  Want to design a theme for Piwik? <br>
 A.  Go to https://developer.piwik.org/guides/theming to learn how.
 
 
 ## Changelog
 
-Version 0.1.2 
+Version 0.1.2 <br>
 Basic theme adjustments, testing the process.
+
+Version 0.1.3 <br>
+Updated version number and Changelog
 
 ## Support
 
