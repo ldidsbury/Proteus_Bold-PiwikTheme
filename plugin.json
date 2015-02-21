@@ -1,19 +1,25 @@
 {
-    "name": "Proteus_Bold",
-    "description": "Proteus was an early Greek god of the sea, capable of changing his appearance.  The Proteus_Bold theme uses bold font that is easy-to-read and colors like that of the sea.",
-    "theme": true,
-	"version": "0.1.3",
+	"name": "Proteus_Bold",
+	"description": "The Proteus_Bold theme uses bold font that is easy-to-read with colors like that of the sea.",
+	"theme": true,
+	"version": "0.1.4",
 	"license": "GPLv3+",
-	"keywords": ["Proteus_Bold"],
+	"keywords": [
+        	"theme",
+        	"Proteus_Bold",
+        	"bold",
+        	"blue"
+    	],
 	"homepage": "https://github.com/ldidsbury/Proteus_Bold-PiwikTheme",
 	"authors": [
-     {
+     		{
          "name": "Lawrence Didsbury",
          "email": "ld@winchesterresearch.com",
          "homepage": "http://www.winchesterresearch.com"
-     }
+	 	}
 	],
-    "stylesheet": "stylesheets/theme.less"
+	"donate": {"paypal":"lawrence@winchesterresearch.it"},
+	"stylesheet": "stylesheets/theme.less"
 
 }
 
