@@ -13,10 +13,15 @@ A.  Go to https://developer.piwik.org/guides/theming to learn how.
 ## Changelog
 
 Version 0.1.2 <br>
-Basic theme adjustments, testing the process.
+-Basic theme adjustments, testing the process.
 
 Version 0.1.3 <br>
-Updated version number and Changelog
+-Updated version number and Changelog
+
+Version 0.1.4 <br>
+-Updated version number in json, 
+-Updated Changelog, and 
+-Edited description text length for the Piwik marketplace viewing
 
 ## Support
 
